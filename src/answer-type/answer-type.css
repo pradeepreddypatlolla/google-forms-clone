@@ -1,0 +1,6 @@
+.answer-type select{
+    height: 30px;
+    outline: 0;
+    border: thin solid #333;
+    border-radius: 5px;
+}

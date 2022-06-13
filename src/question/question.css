@@ -1,0 +1,12 @@
+.question-top{
+    display: flex;
+    align-items: center;
+    
+}
+.question{
+    flex-basis:60%;
+    
+}
+.question input{
+    height: 50px;
+}

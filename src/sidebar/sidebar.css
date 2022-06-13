@@ -1,0 +1,9 @@
+.sidebar{
+    width: 50px;
+}
+.sidebar{
+    flex-direction: column;
+}
+.sidebar-icons{
+    margin: 5px 3px;
+}

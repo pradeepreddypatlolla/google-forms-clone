@@ -1,0 +1,12 @@
+/* .form-heading{
+   width: 50%;
+   margin: auto;
+} */
+.form-heading input:focus{
+    border-bottom: 2px solid rgb(3, 71, 206);
+    
+}
+.form-title input{
+    height: 50px;
+    font-size: larger;
+}
